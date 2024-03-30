@@ -1,2 +1,9 @@
-# SQL
-SQL Portfolio
+> [!TIP]
+> Read this first. 
+
+
+# AL Farrouq's SQL Portfolio
+
+## Welcome to my SQL Portfolio! This code repository contains examples of SQL I've written. Feel free to take a look and reach out if you have any questions. (https://www.linkedin.com/in/alfarrouq/) 
+
+

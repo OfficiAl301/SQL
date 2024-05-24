@@ -2,7 +2,7 @@
 # Here is the link to download/access the dataset used in this project --> https://cdn.fs.teachablecdn.com/dRmwOLQsS22FVFbXfh3x
 
 
-#1. Show Customers (their full names, customer ID, and country) who are not in the US. (Hint: != or <> can be used to say "is not equal to")
+#1. Show Customers (their full names, customer ID, and country) who are not in the US
 SELECT FirstName, LastName, CustomerId, Country 
 FROM chinook.customers 
 WHERE Country != "USA";
